@@ -1,4 +1,4 @@
-# Phish-Detector
+
 # Phish Detecting System
 
 Welcome to the **Phish Detecting System** repository! This project leverages machine learning to identify phishing websites by analyzing various features of URLs and website content. 
@@ -83,4 +83,4 @@ Contributions are welcome! To contribute:
 
 --- 
 
-Feel free to customize the **README** to better fit your project structure and specifics! 😊
+
